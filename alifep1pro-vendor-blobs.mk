@@ -43,6 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/blackview/alifep1pro/proprietary/system/bin/gsm0710muxdmd2:system/bin/gsm0710muxdmd2 \
     vendor/blackview/alifep1pro/proprietary/system/bin/hostapd:system/bin/hostapd \
     vendor/blackview/alifep1pro/proprietary/system/bin/hostapd_cli:system/bin/hostapd_cli \
+    vendor/blackview/alifep1pro/proprietary/system/bin/guiext-server:system/bin/guiext-server \
     vendor/blackview/alifep1pro/proprietary/system/bin/kpoc_charger:system/bin/kpoc_charger \
     vendor/blackview/alifep1pro/proprietary/system/bin/lsm303md:system/bin/lsm303md \
     vendor/blackview/alifep1pro/proprietary/system/bin/magd:system/bin/magd \
