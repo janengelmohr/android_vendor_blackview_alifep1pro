@@ -560,4 +560,10 @@ PRODUCT_COPY_FILES += \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libMtkOmxGsmDec.so:system/lib64/libMtkOmxGsmDec.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libMtkOmxMp3Dec.so:system/lib64/libMtkOmxMp3Dec.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libMtkOmxRawDec.so:system/lib64/libMtkOmxRawDec.so \
-    vendor/blackview/alifep1pro/proprietary/system/lib64/libMtkOmxVorbisEnc.so:system/lib64/libMtkOmxVorbisEnc.so
+    vendor/blackview/alifep1pro/proprietary/system/lib64/libMtkOmxVorbisEnc.so:system/lib64/libMtkOmxVorbisEnc.so \
+    vendor/blackview/alifep1pro/proprietary/system/lib/libhal.so:system/lib/libhal.so \
+    vendor/blackview/alifep1pro/proprietary/system/lib/libFp.so:system/lib/libFp.so \
+    vendor/blackview/alifep1pro/proprietary/system/lib/libfpalgorithm.so:system/lib/libfpalgorithm.so \
+    vendor/blackview/alifep1pro/proprietary/system/lib/libfp_client.so:system/lib/libfp_client.so \
+    vendor/blackview/alifep1pro/proprietary/system/lib/libfpservice.so:system/lib/libfpservice.so \
+    vendor/blackview/alifep1pro/proprietary/system/lib/libopencv_java.so:system/lib/libopencv_java.so 
