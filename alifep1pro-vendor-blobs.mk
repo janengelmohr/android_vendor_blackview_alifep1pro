@@ -566,4 +566,5 @@ PRODUCT_COPY_FILES += \
     vendor/blackview/alifep1pro/proprietary/system/lib/libfpalgorithm.so:system/lib/libfpalgorithm.so \
     vendor/blackview/alifep1pro/proprietary/system/lib/libfp_client.so:system/lib/libfp_client.so \
     vendor/blackview/alifep1pro/proprietary/system/lib/libfpservice.so:system/lib/libfpservice.so \
-    vendor/blackview/alifep1pro/proprietary/system/lib/libopencv_java.so:system/lib/libopencv_java.so 
+    vendor/blackview/alifep1pro/proprietary/system/lib/libopencv_java.so:system/lib/libopencv_java.so \
+    vendor/blackview/alifep1pro/proprietary/system/bin/gxFpDaemon:system/bin/gxFpDaemon
