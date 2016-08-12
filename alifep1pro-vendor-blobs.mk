@@ -548,8 +548,6 @@ PRODUCT_COPY_FILES += \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libmmsdkservice.feature.so:system/lib64/libmmsdkservice.feature.so \
     vendor/blackview/alifep1pro/proprietary/system/lib/libfeatureiodrv.so:system/lib/libfeatureiodrv.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libfeatureiodrv.so:system/lib64/libfeatureiodrv.so \
-    vendor/blackview/alifep1pro/proprietary/system/lib/libcameraservice.so:system/lib/libcameraservice.so \
-    vendor/blackview/alifep1pro/proprietary/system/lib64/libcameraservice.so:system/lib64/libcameraservice.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libMtkOmxAdpcmDec.so:system/lib64/libMtkOmxAdpcmDec.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libMtkOmxAdpcmEnc.so:system/lib64/libMtkOmxAdpcmEnc.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libMtkOmxAlacDec.so:system/lib64/libMtkOmxAlacDec.so \
