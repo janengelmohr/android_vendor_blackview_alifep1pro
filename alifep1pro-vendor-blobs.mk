@@ -216,7 +216,6 @@ PRODUCT_COPY_FILES += \
     vendor/blackview/alifep1pro/proprietary/system/lib/libcam.iopipe_FrmB.so:system/lib/libcam.iopipe_FrmB.so \
     vendor/blackview/alifep1pro/proprietary/system/lib/libimageio_FrmB.so:system/lib/libimageio_FrmB.so \
     vendor/blackview/alifep1pro/proprietary/system/lib/libimageio_plat_drv_FrmB.so:system/lib/libimageio_plat_drv_FrmB.so \
-    vendor/blackview/alifep1pro/proprietary/system/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/blackview/alifep1pro/proprietary/system/lib/libcamera_client_mtk.so:system/lib/libcamera_client_mtk.so \
     vendor/blackview/alifep1pro/proprietary/system/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/blackview/alifep1pro/proprietary/system/lib/libcameracustom.so:system/lib/libcameracustom.so \
@@ -404,7 +403,6 @@ PRODUCT_COPY_FILES += \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libcam_utils.so:system/lib64/libcam_utils.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libcamalgo.so:system/lib64/libcamalgo.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libcamdrv.so:system/lib64/libcamdrv.so \
-    vendor/blackview/alifep1pro/proprietary/system/lib64/libcamera_client.so:system/lib64/libcamera_client.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libcamera_client_mtk.so:system/lib64/libcamera_client_mtk.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libcamera_metadata.so:system/lib64/libcamera_metadata.so \
     vendor/blackview/alifep1pro/proprietary/system/lib64/libcameracustom.so:system/lib64/libcameracustom.so \
